@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: lh-tinylib
+Version: 0.0.1
+Summary: Leehands Tiny Library for example
+Home-page: https://github.com/leehands-society/lh-tinylib.git
+Author: Lee Namhun
+Author-email: leehands83@icloud.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Operating System :: Linux
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python
+
+UNKNOWN
+
