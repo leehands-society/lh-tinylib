@@ -1,4 +1,6 @@
 # lh-tinylib
+<br> it's very tiny library for python3
+<br> it's for education
 <br>
 <br><h1><strong>INSTALL</strong></h1>
 <br><code>python3 setup.py bdist_wheel</code>>
